@@ -16,5 +16,5 @@ setInterval(() => {
 
 var shell = require('shelljs');
   
-shell.exec('java -jar JMusicBot-0.2.8.jar')
+shell.exec('java -jar JMusicBot-0.2.9-Linux.jar')
 
